@@ -1,0 +1,1 @@
+O material aqui anexado é de uso apenas educativo. São arquivos e anotações referentes ao aprendizado adquirido no curso de Banco de Dados e SQL, cursado na Udemy.
